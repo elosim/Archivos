@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_borrar"
+        android:title="@string/borrar" />
+    <item
+        android:id="@+id/menu_compartir"
+        android:title="@string/compartir" />
+    <item
+        android:id="@+id/menu_nueva"
+        android:title="@string/createtitulo" />
+    <item
+        android:id="@+id/menu_renombrar"
+        android:title="@string/renombrar" />
+
+
+</menu>

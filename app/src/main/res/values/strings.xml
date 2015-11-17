@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Archivos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nomtitulo">Renombrar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="atras">Atras</string>
+    <string name="renombrar">Renombrar</string>
+    <string name="createtitulo">Nueva Carpeta</string>
+    <string name="compartir">Compartir</string>
+    <string name="borrar">Borrar</string>
+</resources>
